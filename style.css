@@ -1,0 +1,15 @@
+.div {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
